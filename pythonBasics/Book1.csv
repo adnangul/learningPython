@@ -1,3 +1,4 @@
 id,account,purchased_quantity,item_name,item_quantity,item_unit,item_price,category
 1111,itsadnan@gmail.com,1,abc,2,lb,10,abc
-222,itsadnan@gmail.com,3,Cucumber,1,medium,0.5,vegetables
+222,itsadnan@gmail.com,3,Cucumber,1,medium,N/A,vegetables
+333,itsadnan@gmail.com,3,Cucumber,1,medium,0.5,vegetables
