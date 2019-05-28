@@ -2,3 +2,5 @@ id,account,purchased_quantity,item_name,item_quantity,item_unit,item_price,categ
 1111,itsadnan@gmail.com,1,abc,2,lb,10,abc
 222,itsadnan@gmail.com,3,Cucumber,1,medium,1,vegetables
 333,itsadnan@gmail.com,3,Tomato,1,medium,0.5,vegetables
+444,itsadnan@gmail.com,4,Apple,1,lb,0.5,fruit
+555,itsadnan@gmail.com,2,Milke,1,qt,0.5,Dairy
